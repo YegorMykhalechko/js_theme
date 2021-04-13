@@ -1,4 +1,4 @@
-GH_PAGES https://yegormykhalechko.github.io/js_theme/
+GH_PAGES https://yegormykhalechko.github.io/color-switch/
 ```
 
 ### Setting up Dev
